@@ -1,0 +1,8 @@
+body{
+  background-color: rgb(50, 93, 99);
+}
+
+.toCenter{
+  display: flex;
+  justify-content: center;
+}
